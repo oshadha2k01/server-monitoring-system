@@ -31,7 +31,7 @@ This project implements a simple monitoring system to track server performance m
 1.  **Clone the Repository:**
 
     ```bash
-    git clonehttps://github.com/oshadha2k01/server-monitoring-system
+    git clonehttps://github.com/oshadha2k01/server-monitoring-system.git
     cd server-monitoring-system
     ```
 
